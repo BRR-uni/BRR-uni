@@ -9,6 +9,7 @@ I'm a chemical engineer and MSc in Biochemical Sciences interested in the biolog
 
 ## Featured Projects
 
+- **[ImageJ_nuclei_counter](https://github.com/BRR-uni/ImageJ_nuclei_counter)** — ImageJ macro to automatically count cell nuclei in confocal z-stacks, reducing manual quantification time.
 - **[ImageJ_z_stack_plugins](https://github.com/BRR-uni/ImageJ_z_stack_plugins)** — ImageJ macros to accelerate and automate confocal z-stack processing and nuclei counting.
 - **[Plots-and-Statistical-tests](https://github.com/BRR-uni/Plots-and-Statistical-tests)** — Python scripts for time-series visualization and statistical analysis from Excel data.
 - **[SBB_Chamber](https://github.com/BRR-uni/SBB_Chamber)** — 3D-printable chamber that improves brain slice recovery for Sudan Black B immunostaining.
