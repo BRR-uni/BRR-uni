@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Braulio 👋
 
-<!--
-**BRR-uni/BRR-uni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a chemical engineer and MSc in Biochemical Sciences interested in the biology of aging, with a focus on **partial reprogramming** and epigenetic rejuvenation. I build open-source tools for image analysis, data analysis, and lab automation.
 
-Here are some ideas to get you started:
+- 🔬 **Interests:** partial reprogramming, senescence, autophagy, quantitative microscopy
+- 🧰 **Tools:** Python · R · ImageJ · Arduino · Android · 3D printing
+- 🌱 **Currently:** teaching chemistry and looking for research opportunities in aging/reprogramming
+- 📫 **Reach me:** [braulio.uni@outlook.com](mailto:braulio.uni@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- **[ImageJ_z_stack_plugins](https://github.com/BRR-uni/ImageJ_z_stack_plugins)** — ImageJ macros to accelerate and automate confocal z-stack processing and nuclei counting.
+- **[Plots-and-Statistical-tests](https://github.com/BRR-uni/Plots-and-Statistical-tests)** — Python scripts for time-series visualization and statistical analysis from Excel data.
+- **[SBB_Chamber](https://github.com/BRR-uni/SBB_Chamber)** — 3D-printable chamber that improves brain slice recovery for Sudan Black B immunostaining.
+- **[OptoGeneLaser](https://github.com/BRR-uni/OptoGeneLaser)** — Android app + Arduino device to control light stimulation in optogenetics experiments.
+- **[Aromatic_Cycle_Grouper](https://github.com/BRR-uni/Aromatic_Cycle_Grouper)** — Python script to identify and group aromatic cycles for molecular docking.
+- **[ORM-Timer](https://github.com/BRR-uni/ORM-Timer)** — Mobile app for manual assessment of Object Recognition Memory tests in mice.
+
+---
+
+Open to PhD positions, collaborations, and research opportunities in **partial reprogramming, aging, and epigenetic rejuvenation**.
